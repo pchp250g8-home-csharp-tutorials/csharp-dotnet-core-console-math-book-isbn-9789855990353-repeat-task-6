@@ -7,7 +7,7 @@ for (int i = 10; i <= 99; i++)
     bool bIsTrue = (i % 10 == 4 && i % 3 == 0);
     if(bIsTrue)
     {
-        Console.WriteLine("Number N {0} - {1}",(n+1), i);
+        Console.WriteLine("Число N {0} - {1}",(n+1), i);
         nSum += i;
         nProduct *= i;
         n++;
