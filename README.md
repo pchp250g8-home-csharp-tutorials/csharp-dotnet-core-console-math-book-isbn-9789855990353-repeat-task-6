@@ -1,1 +1,1 @@
-# WriteNums
+Repeat-Task-6. C# Tutorials. Math. Word Problems. DotNetCore Platform. Simple input/output. Console Application.

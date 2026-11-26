@@ -1,0 +1,3 @@
+Write down all two-digit numbers that are multiples of 3 and end in 4.
+
+Запишите все двузначные числа, кратные 3 и оканчивающиеся на 4.
