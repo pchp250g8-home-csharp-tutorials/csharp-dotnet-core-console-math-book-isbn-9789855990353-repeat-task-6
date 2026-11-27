@@ -1,3 +1,5 @@
-Write down all two-digit numbers that are multiples of 3 and end in 4.
+List all two-digit numbers that are multiples of 3 and end in 4.
+Find their sum and their product. How many such numbers are there?
 
 Запишите все двузначные числа, кратные 3 и оканчивающиеся на 4.
+Найдите их сумму и произведение. Сколько таких чисел?

@@ -2,6 +2,8 @@
 var nSum = 0;
 var nProduct = 1;
 Console.WriteLine("Запишите все двузначные числа, \r\nкратные 3 и оканчивающиеся на 4.");
+Console.WriteLine("Найдите их сумму и произведение.");
+Console.WriteLine("Сколько таких чисел.");
 for (int i = 10; i <= 99; i++)
 {
     bool bIsTrue = (i % 10 == 4 && i % 3 == 0);
@@ -14,6 +16,7 @@ for (int i = 10; i <= 99; i++)
     }
     
 }
+Console.WriteLine("Количество указанных чисел:{0}", n);
 Console.WriteLine("Сумма указанных чисел равна:{0}", nSum);
 Console.WriteLine("Произведение указанных чисел равно:{0}", nProduct);
 Console.Read();
